@@ -3,10 +3,10 @@ Habit tracking app in python for Assignments for the course: Object Oriented and
 This guide will help you to navigate the Habit Tracking App (HTA); read the document throughly and follow the recommendations written here.
 
 # Requirements
--> Python version 3.10 or superior. If not installed in your computer, you can install it following the recommendations indicated in https://www.python.org/downloads/
--> Pandas latest version. More information about pandas module and its installation process can be found here: https://pandas.pydata.org/docs/getting_started/install.html
--> psycopg2 latest version. More information about psycopg2 module and its installation process can be found here: [https://pandas.pydata.org/docs/getting_started/install.html](https://pypi.org/project/psycopg2/)
--> Anaconda (Optional). Let you easily manage integrated applications, packages, and environments without using the command line. You can download Anaconda in the following web-address: https://www.anaconda.com/download
+- Python version 3.10 or superior. If not installed in your computer, you can install it following the recommendations indicated in https://www.python.org/downloads/
+- Pandas latest version. More information about pandas module and its installation process can be found here: https://pandas.pydata.org/docs/getting_started/install.html
+- psycopg2 latest version. More information about psycopg2 module and its installation process can be found here: [https://pandas.pydata.org/docs/getting_started/install.html](https://pypi.org/project/psycopg2/)
+- Anaconda (Optional). Let you easily manage integrated applications, packages, and environments without using the command line. You can download Anaconda in the following web-address: https://www.anaconda.com/download
 You must install these modules in your python environment before being able to use the HTA.
 
 # Installing HTA in your computer

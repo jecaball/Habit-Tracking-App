@@ -24,13 +24,13 @@ analytics.py
 3. In the terminal, write "python main.py"
 4. Follow the instructions of the menu.
 
-# Installing pandas
+# Installing pandas (required)
 1. Open the folders where the *.py files are located
 2. Press right click in the folder, a menu will appear and press on "Open in Terminal"
 3. write "pip install pandas" and press enter
 4. Wait until the installation is done
 
-# Installing psycopg2
+# Installing psycopg2 (required)
 1. Open the folders where the *.py files are located
 2. Press right click in the folder, a menu will appear and press on "Open in Terminal"
 3. write "pip install psycopg2" and press enter

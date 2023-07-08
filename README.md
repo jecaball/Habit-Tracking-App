@@ -20,9 +20,21 @@ analytics.py
 
 # Opening HTA
 1. Open the folders where the *.py files are located
-2. Press right click in the folder, a menu will appear and press "Open in Terminal"
+2. Press right click in the folder, a menu will appear and press on "Open in Terminal"
 3. In the terminal, write "python main.py"
 4. Follow the instructions of the menu.
+
+# Installing pandas
+1. Open the folders where the *.py files are located
+2. Press right click in the folder, a menu will appear and press on "Open in Terminal"
+3. write "pip install pandas" and press enter
+4. Wait until the installation is done
+
+# Installing psycopg2
+1. Open the folders where the *.py files are located
+2. Press right click in the folder, a menu will appear and press on "Open in Terminal"
+3. write "pip install psycopg2" and press enter
+4. Wait until the installation is done
 
 # Navigating through HTA
 Navigate iteractively throught the different menus of the app. Follow the intructions and provide the input when requested.
